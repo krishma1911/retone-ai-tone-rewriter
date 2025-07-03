@@ -1,0 +1,21 @@
+body {
+  font-family: Century Gothic, sans-serif;
+  padding: 12px;
+  background-color: blanchedalmond;
+  color: black;
+  width: 350px;
+}
+
+textarea, select, button {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+#output {
+  white-space: pre-wrap;
+  background: #ebe2e2;
+  color: rgb(32, 1, 1);
+  padding: 8px;
+  border-radius: 4px;
+}

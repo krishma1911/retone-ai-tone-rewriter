@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Retone : AI Tone Rewriter ",
+  "version": "1.0",
+  "description": "Rewrite text using DeepSeek R1 model.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
